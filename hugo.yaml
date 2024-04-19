@@ -1,3 +1,4 @@
 baseURL: https://github.com/Denaiad/den-note
 languageCode: en-us
 title: My New Hugo Site
+theme: PaperMod
