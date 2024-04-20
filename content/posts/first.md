@@ -10,3 +10,18 @@ Di kursus ini, kamu akan mempelajari cara menggunakan kode untuk memberi perinta
 
 > ❝ Jadilah dirimu sendiri ❞  
 > ~ [Albert Einsten](https://id.wikipedia.org/wiki/Albert_Einstein)
+
+### Examples
+
+{{< math.inline >}}
+
+<p>
+Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
+</p>
+{{</ math.inline >}}
+
+Block math:
+
+$$
+ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$
