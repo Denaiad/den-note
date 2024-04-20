@@ -4,15 +4,15 @@ title : 'Markdown Syntax'
 date : '2024-04-20'
 description: ""
 summary: ""
-IDtags: ['riemann']
-IDcategories: ['integral']
-IDseries: ['integral']
+tags: ['riemann']
+categories: ['integral']
+series: ['integral']
 # draft : true
 ShowToc : true
 TocOpen : false
 math : true
 ShowBreadCrumbs : true
-weight : 2
+weight : 1
 ---
 
 
