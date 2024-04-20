@@ -2,7 +2,7 @@ baseURL: https://Denaiad.github.io/den-note
 languageCode: en-us
 title: Denai Notes
 theme: PaperMod
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© 2024 [Den-Note](https://github.com/Denaiad/den-note)"
 paginate: 5
 
 enableInlineShortcodes: true
@@ -54,13 +54,13 @@ languages:
           url: archives/
           weight: 5
         - name: Tag
-          url: idtags
+          url: idTags
           weight: 10
         - name: Kategori
-          url: idcategories
+          url: idCategories
           weight: 10
         - name: Seri
-          url: idseries
+          url: idSeries
           weight: 10
         - name: NullLink
           url: "#"
@@ -144,7 +144,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Den's Notes"
+    Title: "**[~]$ Den's Notes**"
     Content: >
       📚 Welcome to our math learning page!
 
