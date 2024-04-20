@@ -1,4 +1,4 @@
-baseURL: https://Deniad.github.io/den-note/
+baseURL: https://examplesite.org
 languageCode: en-us
 title: Denai Notes
 theme: PaperMod
@@ -144,7 +144,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "Den's Notes"
     Content: >
       📚 Welcome to our math learning page!
 
@@ -215,6 +215,8 @@ markup:
           inline:
           - - \(
             - \)
+          - - $
+            - $
         enable: true
     renderer:
       unsafe: true
