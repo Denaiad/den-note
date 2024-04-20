@@ -41,7 +41,7 @@ languages:
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   id:
-    languageName: ":id:"
+    languageName: "Indonesian"
     weight: 2
     title: Denai Notes
     taxonomies:
@@ -148,11 +148,11 @@ params:
     Content: >
       📚 Welcome to our math learning page!
 
-      - **MathMod** is crafted to offer a smooth and straightforward experience, combining speed and responsiveness with a feature-rich set that enriches the learning process.
+      >- **MathMod** is crafted to offer a smooth and straightforward experience, combining speed and responsiveness with a feature-rich set that enriches the learning process.
 
-      - If you find MathMod helpful, please consider supporting us by giving a star 🌟 on [GitHub](https://github.com/) and sharing it with your peers and social networks.
+      >- If you find MathMod helpful, please consider supporting us by giving a star 🌟 on [GitHub](https://github.com/) and sharing it with your peers and social networks.
 
-      - MathMod is built upon the foundations of the [Paper theme](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3), providing a seamless environment for math enthusiasts and learners alike.
+      >- MathMod is built upon the foundations of the [Paper theme](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3), providing a seamless environment for math enthusiasts and learners alike.
 
   socialIcons:
     - name: github
